@@ -1,5 +1,8 @@
 # Club Task Board
 
+bllappp
+
+
 A shared backlog split by subteam. Each subteam gets its own To do / In progress / Done board, every task carries a priority, a description, and a free-form "additional info" field, and an overview tab rolls everything up in one view.
 
 No build step, no framework, no server to run. It's HTML, CSS, and three JavaScript files. Firebase handles the shared data so everyone sees the same board live.
