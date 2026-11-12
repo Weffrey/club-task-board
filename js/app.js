@@ -112,7 +112,7 @@ function deleteTask(id){ return store.deleteTask(id); }
           '<div class="title-row">' + titleHtml + '</div>' +
         '</div>' +
         '<div class="header-actions">' +
-          '<button class="btn btn-icon" title="Manage subteams" onclick="Board.openSettings()">"Subteam management</button>' +
+          '<button class="btn btn-icon" title="Manage subteams" onclick="Board.openSettings()">' + gearIcon() + '</button>' +
           '<button class="btn btn-primary" onclick="Board.openAdd(null)">' + plusIcon() + ' New task</button>' +
         '</div>' +
       '</div>'
