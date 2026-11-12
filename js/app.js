@@ -110,7 +110,6 @@ function deleteTask(id){ return store.deleteTask(id); }
         '<div class="header-left">' +
           '<p class="eyebrow">Team backlog</p>' +
           '<div class="title-row">' + titleHtml + '</div>' +
-          '<p class="subtitle">Shared with everyone who opens this board.</p>' +
         '</div>' +
         '<div class="header-actions">' +
           '<button class="btn btn-icon" title="Manage subteams" onclick="Board.openSettings()">"Subteam management</button>' +
