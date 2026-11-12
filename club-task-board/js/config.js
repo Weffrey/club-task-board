@@ -13,12 +13,12 @@
 // ---------------------------------------------------------------------------
 
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyB7D5R-YP7pkVfmvOjONiDfwDIpDbklI_E",
+  authDomain: "taskboard-7ce8a.firebaseapp.com",
+  projectId: "taskboard-7ce8a",
+  storageBucket: "taskboard-7ce8a.firebasestorage.app",
+  messagingSenderId: "313689070387",
+  appId: "1:313689070387:web:4b9496de69bbe567403c46",
 };
 
 // Every board lives under boards/<BOARD_ID> in Firestore. Change this if you
